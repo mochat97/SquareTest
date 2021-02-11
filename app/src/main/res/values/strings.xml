@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SquareTest</string>
+    <string name="no_results">No Results</string>
+    <string name="error_getting_results">Sorry, there was an error retrieving results.</string>
+</resources>
